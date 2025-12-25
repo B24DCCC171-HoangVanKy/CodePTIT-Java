@@ -21,7 +21,7 @@ public class J02005_GIAO_CUA_HAI_DAY_SO {
         ts1.retainAll(ts2);
 
         for(Integer x : ts1){
-            System.out.println(x + " ");
+            System.out.print(x + " ");
         }
     }
 }
